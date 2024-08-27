@@ -2,8 +2,6 @@ h1. JMX_C
 
 h2. A JMX Console tool for dumping JMX data.
 
-h3. "http://sematext.com/open-source/index.html":http://sematext.com/open-source/index.html
-
 h3. Building from Source
 
 JMXC uses "Maven":http://maven.apache.org for its build system.
